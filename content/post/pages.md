@@ -3,6 +3,7 @@ title: "Pages"
 description: Information on setting up pages
 date: 2019-04-20T16:18:12+01:00
 publishDate: 2019-04-20T19:12:12+01:00
+draft: true
 ---
 
 Variables you can use in pages

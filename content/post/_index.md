@@ -1,5 +1,5 @@
 ---
-title: POST
+title: ANNOUNCEMENTS
 description: 'Posts Section'
 ---
 
