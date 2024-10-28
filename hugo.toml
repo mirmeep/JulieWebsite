@@ -1,6 +1,6 @@
 baseURL = 'https://example.org/'
 languageCode = 'en-us'
-title = 'My New Hugo Site'
+title = 'Julie Nishimura, Collaborative Pianist'
 theme = "personal-web"
 copyright="© Edna West"
 enableEmoji=true

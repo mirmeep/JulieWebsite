@@ -3,4 +3,4 @@ title: ANNOUNCEMENTS
 description: 'Posts Section'
 ---
 
-You'll add here a general introduction of your posts.
+Check back in for news on upcoming events and performances.
