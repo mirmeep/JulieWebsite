@@ -81,6 +81,13 @@ pygmentsCodeFences=true
   url = "/post/"
   weight = -100
 
+[[menu.main]]
+  identifier = "past-events"
+  name = "Past Events"
+  title = "Past Events"
+  url = "/past-events/"
+  weight = -100
+
 [sitemap]
   changefreq = "monthly"
   filename = "sitemap.xml"
