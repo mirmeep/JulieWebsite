@@ -7,7 +7,6 @@ work: [collaboration, piano, viola]
 designs: [collaboration, piano, viola]
 thumbnail: leaps-and-bounds/leaps-and-bounds.jpg
 projectUrl: https://www.sampleorganization.org
-audio: [P3uOvUAszqQ]
 ---
 
 {{< youtube P3uOvUAszqQ >}}
