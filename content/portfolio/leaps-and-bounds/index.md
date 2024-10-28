@@ -1,7 +1,7 @@
 ---
 title: Leaps and Bounds
 description: Grammy Nominated Album
-date: "2019-05-02T19:47:09+02:00"
+date: "2024-05-02T19:47:09+02:00"
 jobDate: 2024
 work: [collaboration, piano, viola]
 designs: [collaboration, piano, viola]
