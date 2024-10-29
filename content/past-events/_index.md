@@ -3,4 +3,4 @@ title: PAST EVENTS
 description: 'Posts Section'
 ---
 
-List of past events and performances
+This page is under construction. Please check back in later.
