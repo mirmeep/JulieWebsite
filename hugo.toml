@@ -1,6 +1,6 @@
-baseURL = 'https://julienishimura.com/'
-languageCode = 'en-us'
-title = 'Julie Nishimura, Collaborative Pianist'
+baseURL = "https://julienishimura.com/"
+languageCode = "en-us"
+title = "Julie Nishimura, Collaborative Pianist"
 theme = "personal-web"
 copyright="© "
 enableEmoji=true
