@@ -48,10 +48,9 @@ pygmentsCodeFences=true
   customCSS = ""
 
 [params.social]
-  linkedin = "https://www.linkedin.com/in/"
-  facebook = "https://www.facebook.com/"
-  youtube = "https://www.youtube.com/"
-  instagram = "https://www.instagram.com/"
+  linkedin = "https://www.linkedin.com/in/julienishimura/"
+  facebook = "https://www.facebook.com/JulieHiromiPiano"
+  instagram = "https://www.instagram.com/juliehiromi/"
 
 [params.contact]
   email = ""
