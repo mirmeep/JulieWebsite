@@ -6,7 +6,7 @@ jobDate: 2019
 work: [collaboration, piano, clarinet]
 designs: [collaboration, piano, clarinet]
 thumbnail: all-america-clarinet-piano/all-american.jpeg
-projectUrl: https://www.sampleorganization.org
+projectUrl: https://www.youtube.com/channel/UC2H2Jk9_t7P7ww6F07RLTLA
 ---
 
 {{< youtube QOpFoRdTRJ0 >}}
