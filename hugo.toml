@@ -44,7 +44,7 @@ pygmentsCodeFences=true
   gradientOverlay = '' # default: rgba(0,0,0,0.4),rgba(0,0,0,0.4)
   logo = "images/piano-hands.jpg" # - default "/images/edna-west.jpg"
 [params.assets]
-  favicon = ""
+  favicon = "images/favicon-32x32.png"
   customCSS = ""
 
 [params.social]
