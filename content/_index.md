@@ -7,7 +7,7 @@ featured_image: "images/piano-headshot.jpg"
 <br>
 
 
-Julie Nishimura is a traveling freelance collaborative pianist. 
+Julie Nishimura is a traveling solo and collaborative pianist. 
 
 
 [Learn More Here](/about "Get to know me better")
