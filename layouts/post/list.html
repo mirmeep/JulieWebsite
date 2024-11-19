@@ -5,10 +5,7 @@
 
   <div class="post-list">
     {{ range .Pages.ByPublishDate.Reverse }}
-      <a href="{{.Permalink}}">
-        {{ with .Params.featured_image }}<img src="{{ . }}">{{ end }}
-      </a>
-      <br>
+      {{ partial "post/item" .}}
     {{ end }}
   </div>
 
