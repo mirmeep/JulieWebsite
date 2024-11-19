@@ -6,7 +6,7 @@ jobDate: 2019
 work: [collaboration, piano, clarinet]
 designs: [collaboration, piano, clarinet]
 thumbnail: copland-clarinet-concerto/copland.webp
-projectUrl: https://www.sampleorganization.org
+projectUrl: https://www.youtube.com/@joannamccoskeywiltshire
 ---
 
 {{< youtube cNXlKUa1zNo >}}

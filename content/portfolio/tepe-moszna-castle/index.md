@@ -6,7 +6,7 @@ jobDate: 2015
 work: [collaboration, piano, voice]
 designs: [collaboration, piano, voice]
 thumbnail: tepe-moszna-castle/emily-tepe.jpg
-projectUrl: https://www.sampleorganization.org
+projectUrl: https://www.youtube.com/watch?v=CRwMn_4anmc
 ---
 
 {{< youtube CRwMn_4anmc >}}
