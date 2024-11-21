@@ -10,6 +10,5 @@ projectUrl: https://www.youtube.com/channel/UC8ndWQktu2Q9ttGNPbZSL4w
 ---
 
 {{< youtube P3uOvUAszqQ >}}
-
-{{< youtube Gwm6lSoc4AY >}}
 <br>
+{{< youtube Gwm6lSoc4AY >}}

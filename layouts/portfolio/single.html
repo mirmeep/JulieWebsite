@@ -17,5 +17,16 @@
     {{ end }}
   </div>
 {{ end }} -->
-
+<br>
+{{ if .NextInSection }}
+  <a href="{{.NextInSection.Permalink}}">
+    < Previous project
+  </a>
+{{ end }}
+{{ if .PrevInSection }}
+  <a href="{{.PrevInSection.Permalink}}" style="float:right;">
+    Next project >
+  </a>
+{{ end }}
+<br>
 {{ partial "footer" .}}
