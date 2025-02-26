@@ -5,6 +5,6 @@ date: {{ .Date }}
 jobDate: {{ .Date }}
 work: [collaboration, piano]
 designs: [collaboration, piano]
-thumbnail: "/images/events/gopher.png"
+thumbnail: "placeholder-image.jpg"
 projectUrl: 
 ---
