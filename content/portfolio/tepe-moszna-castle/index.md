@@ -1,6 +1,6 @@
 ---
 title: Emily Tepe & Julie Nishimura at Moszna Castle
-description: Grammy Nominated Album
+description: 
 date: "2015-05-02T19:47:09+02:00"
 jobDate: 2015
 work: [collaboration, piano, voice]
